@@ -5,7 +5,7 @@ import urllib.parse
 import string
 
 def get_params():
-  url = "http://www.baidu.com/s?"
+  url = "http://www.baidu.com/"
 
   params = {
     "wd":"中文",

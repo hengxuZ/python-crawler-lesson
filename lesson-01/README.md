@@ -1,10 +1,1 @@
-
-## urllib模块
-
-### urllib.parse
-> 解析模块
-
-### urllib.request
-> 请求模块
-
-[1][https://docs.python.org/zh-cn/3/library/urllib.html]
+lesson：01课程讲解地址：[掘金](https://juejin.im/post/5dcfb2505188256cf1378542)
