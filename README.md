@@ -1,32 +1,5 @@
-## **项目介绍**
+最近听说，python语言已经是github最受欢迎语言排行榜第二名。吓得我差点摔掉了我的魅族16th。立马打开看了一下，还好我大前端javascript还是第一名😉。
 
-- ✌这是一个**jQuery插件**，可以在右下角创建平面设计的纸张折叠效果，这对于时尚和链接提示都很有用。
-- 它使用CSS边框技巧来实现效果，而不使用任何图像，这使我们能够创建任何大小的角落。了解如何实现这一目标。😁
+作为一名攻城师（搬砖二号），其实我认为2019年的python完全符合我们前端儿的气质。写点脚本，处理点表格，爬点小图片。嘿嘿嘿！简直是为了开发者量身定做的🗡。
 
-### **如何使用**
-要使用Folding，应始终包含以下文件。
-
-    <script src="http://code.jquery.com/jquery-1.10.2.min.js" type="text/javascript"></script>
-    <script src="Folding.min.js" type="text/javascript"></script>
-
-
-
-HTML: 
-
-    <div id="paper"></div>
-
-JS:
-
-    $('#paper').Folding();
-
-假设我们想在HTML中为带有id纸的元素添加一个角，Folding使它变得如此简单：
-
-
-
-### **项目大小**
-
-大小只有1.2kb😍
-
-### **项目预览**
-
-![test_img](./image/1.png)
+所以我打算在这里记录下python爬虫学习路程。希望你能在看耍的同时，为我指点迷津，为我鼓励😘
